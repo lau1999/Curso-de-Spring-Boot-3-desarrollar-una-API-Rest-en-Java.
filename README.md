@@ -41,4 +41,4 @@ El proyecto está estructurado de la siguiente manera:
 3. Asegúrate de tener configurado Java y Maven en tu entorno.
 4. Ejecuta la aplicación.
 5. Accede a la API REST utilizando herramientas como Insomnia.
-6.  CRala la base de datos en Myqsl workben
+6. Crea la base de datos en Myqsl workben
